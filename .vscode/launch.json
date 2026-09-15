@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run StreamApiDemo",
+            "request": "launch",
+            "mainClass": "lessons.advanced_lang.StreamApiDemo"
+        }
+    ]
+}
